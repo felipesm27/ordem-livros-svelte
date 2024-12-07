@@ -1,7 +1,11 @@
+<script>
+  import Logo from "../components/template/Logo.svelte";
 
-<div class=" bg-black flex flex-col justify-center items-center text-white min-h-screen gap-5">
+</script>
 
-<h1 class="text-3xl font-bold" >Welcome to SvelteKit</h1>
+
+
+<Logo />
+<h1 class="text-3xl font-bold" >Ordem dos Livros</h1>
 <a href="/autores">Autores</a>
 
-</div>
